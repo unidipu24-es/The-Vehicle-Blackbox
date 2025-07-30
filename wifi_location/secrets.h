@@ -13,7 +13,7 @@ const char* PASSWORD = "joker124";
 
 // --- Google Geolocation API Credentials ---
 // Replace with your Google Geolocation API Key
-const char* G_API_KEY = "AIzaSyCiZrf9RklHaA5_gFbBEsRLA34dOU-frZ0";
+const char* G_API_KEY = "YOUR_API_KEY";
 // Google Geolocation API Host (usually remains constant)
 const char* G_API_HOST = "www.googleapis.com";
 // Google Geolocation API URL path (usually remains constant)
