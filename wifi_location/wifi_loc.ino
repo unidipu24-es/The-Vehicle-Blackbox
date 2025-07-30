@@ -10,7 +10,7 @@ const char* ssid = "joker";
 const char* password = "joker124";
 
 // Google Geolocation API Credentials
-const char* G_API_KEY = "AIzaSyCiZrf9RklHaA5_gFbBEsRLA34dOU-frZ0";
+const char* G_API_KEY = "YOUR_API_KEY";
 const char* G_API_HOST = "www.googleapis.com";
 const String G_API_URL = "/geolocation/v1/geolocate?key=";
 
