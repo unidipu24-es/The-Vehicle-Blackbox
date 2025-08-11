@@ -1,0 +1,4 @@
+in this i can only receive the lora messages, but cannot transmit critical status
+i can also stm parameters along with gps coords
+
+refer to test_Node2_LoRa_Tx

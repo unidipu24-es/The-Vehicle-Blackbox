@@ -1,0 +1,20 @@
+DONT use it- Getting GURU meditation error
+
+in this, we successfully 
+
+sent the data to thingsboard cloud platform
+
+sent the critical vehicle statue over lora transmission.
+refer to test_Node2_LoRa_Rx
+
+these are the respective sender and receiver
+
+
+sender: test_GPS_LoRa_AllSensors_ESP32_FINAL9_ThingsBoard
+receiver: test_Node2_LoRa_TxRx
+
+
+final code for node1 esp32
+it sends data to thingsboard
+
+
