@@ -1,0 +1,10 @@
+in this, we successfully sent the critical vehicle statue over lora transmission.
+refer to test_Node2_LoRa_Rx
+
+these are the respective sender and receiver
+
+
+USE this finally--
+
+sender: test_GPS_LoRa_AllSensors_ESP32_FINAL11
+receiver: test_Node2_LoRa_TxRx
