@@ -1,9 +1,9 @@
-# 🚗 Embedded Vehicle Blackbox for Telematics and Parameter Logging
+# 🚗 The Vehicle Blackbox
 
 ![License](https://img.shields.io/badge/license-CDAC-blue)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange)
 
-📹 **Working Video:** [YouTube](https://youtu.be/e1Xe4-JlceE)
+📹 **Working Video:** [GitHub Demo](https://github.com/unidipu24-es/The-Vehicle-Blackbox/blob/main/The_Vehicle_Blackbox.mp4)
 
 ---
 
